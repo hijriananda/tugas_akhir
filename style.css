@@ -1,0 +1,42 @@
+body{
+    background-color: #ded4da;
+}
+.foto1{
+    float: left;
+    margin: 5px;
+}
+
+.foto2{
+    float: right;
+    margin: 5px;
+}
+
+.foto3{
+    float: left;
+    margin: 5px;
+}
+
+
+.container1{
+    padding:5%;
+}
+.container1 .img{
+    text-align:center;
+    
+}
+.container .details{
+    border-left:3px solid #ded4da;
+}
+.container .details p{
+    font-size:15px;
+    font-weight:bold;
+}
+
+.img-rounded{
+    width: 180px;
+    height: 270px;
+    align-items: center;
+}
+
+
+
